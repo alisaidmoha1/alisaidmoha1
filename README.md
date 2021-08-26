@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisaidmoha1
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate with my team
+- 💞️ I’m looking to collaborate with C# and .Net Framework
 - 📫 you can reach me: alisaidmoha1@gmail.com
 
 <!---
